@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Custom Georgian EPG">
+
+  <channel id="ImediTV.ge">
+    <display-name>Imedi TV</display-name>
+  </channel>
+
+  <!-- დღე 1 -->
+  <programme start="20260130000000 +0400" stop="20260130060000 +0400" channel="ImediTV.ge">
+    <title>ახალი ამბები</title>
+    <desc>ღამის გამოშვება</desc>
+  </programme>
+
+  <programme start="20260130060000 +0400" stop="20260130120000 +0400" channel="ImediTV.ge">
+    <title>საინფორმაციო გადაცემები</title>
+    <desc>დილიდან დღის ჩათვლით</desc>
+  </programme>
+
+  <programme start="20260130120000 +0400" stop="20260130180000 +0400" channel="ImediTV.ge">
+    <title>დღის ამბები</title>
+    <desc>მთავარი მოვლენები</desc>
+  </programme>
+
+  <programme start="20260130180000 +0400" stop="20260130235959 +0400" channel="ImediTV.ge">
+    <title>საღამოს ახალი ამბები</title>
+    <desc>დღის შეჯამება</desc>
+  </programme>
+
+  <!-- დღე 2–7 (ერთი ბლოკი, რომ ყოველთვის ჩანდეს) -->
+  <programme start="20260131000000 +0400" stop="20260205235959 +0400" channel="ImediTV.ge">
+    <title>Imedi TV Live</title>
+    <desc>მიმდინარე ეთერი – 7 დღიანი EPG</desc>
+  </programme>
+
+</tv>
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="GPB1.ge">
+    <display-name>GE - 1 Arkhi HD</display-name>
+    <icon src=""/>
+  </channel>
+
+  <channel id="Rustavi2.ge">
+    <display-name>GE - Rustavi 2 HD</display-name>
+    <icon src=""/>
+  </channel>
+
+  <channel id="ImediTV.ge">
+    <display-name>GE - Imedi HD</display-name>
+    <icon src=""/>
+  </channel>
+
+  <channel id="AdjaraTV.ge">
+    <display-name>GE - Adjara TV</display-name>
+    <icon src=""/>
+  </channel>
+
+  <channel id="MaestroHD.ge">
+    <display-name>GE - Maestro</display-name>
+    <icon src=""/>
+  </channel>
+
+  <channel id="FormulaTV.ge">
+    <display-name>GE - Formula HD</display-name>
+    <icon src=""/>
+  </channel>
+
+  <channel id="TVPirveli.ge">
+    <display-name>GE - TV Pirveli HD</display-name>
+    <icon src=""/>
+  </channel>
+
+  <channel id="EuronewsGeorgia.ge">
+    <display-name>GE - Euronews Georgia</display-name>
+    <icon src=""/>
+  </channel>
+
+  <channel id="Setanta1.ge">
+    <display-name>GE - Setanta 1</display-name>
+    <icon src="https://iptv-epg.org/logos/Georgia/Setanta1.ge.png"/>
+  </channel>
+
+  <channel id="Setanta2.ge">
+    <display-name>GE - Setanta 2</display-name>
+    <icon src=""/>
+  </channel>
+
+  <channel id="Silkუნივერსალი.ge">
+    <display-name>GE - Silk უნივერსალი</display-name>
+    <icon src=""/>
+  </channel>
+
+  <channel id="SilkSport1.ge">
+    <display-name>GE - Silk Sport 1</display-name>
+    <icon src=""/>
+  </channel>
+
+  <channel id="SilkSport2.ge">
+    <display-name>GE - Silk Sport 2</display-name>
+    <icon src=""/>
+  </channel>
+
+  <channel id="SilkSport3.ge">
+    <display-name>GE - Silk Sport 3</display-name>
+    <icon src=""/>
+  </channel>
+
+  <channel id="SilkKids.ge">
+    <display-name>GE - Silk Kids</display-name>
+    <icon src=""/>
+  </channel>
+
+  <channel id="Parliament.ge">
+    <display-name>GE - Parlamenti TV</display-name>
+    <icon src=""/>
+  </channel>
+
+  <!-- Digi+ არხები -->
+  <channel id="DigiPlusGeorgianHD.ge">
+    <display-name>GE - Digi+ Georgian HD</display-name>
+    <icon src=""/>
+  </channel>
+
+  <channel id="DigiPlus4K2.ge">
+    <display-name>GE - Digi+ 4K 2</display-name>
+    <icon src=""/>
+  </channel>
+
+  <channel id="DigiPlus4KUltraHD.ge">
+    <display-name>GE - Digi+ 4K Ultra HD</display-name>
+    <icon src=""/>
+  </channel>
+
+  <channel id="DigiPlusActionHD.ge">
+    <display-name>GE - Digi+ Action HD</display-name>
+    <icon src=""/>
+  </channel>
+
+  <channel id="DigiPlusCinemaHD.ge">
+    <display-name>GE - Digi+ Cinema HD</display-name>
+    <icon src=""/>
+  </channel>
+
+  <channel id="DigiPlusCityHD.ge">
+    <display-name>GE - Digi+ City HD</display-name>
+    <icon src=""/>
+  </channel>
+
+  <channel id="DigiPlusComedyHD.ge">
+    <display-name>GE - Digi+ Comedy HD</display-name>
+    <icon src=""/>
+  </channel>
+
+  <channel id="DigiPlusDocumentaryHD.ge">
+    <display-name>GE - Digi+ Docs HD</display-name>
+    <icon src=""/>
+  </channel>
+
+  <channel id="DigiPlusDramaHD.ge">
+    <display-name>GE - Digi+ Drama HD</display-name>
+    <icon src=""/>
+  </channel>
+
+  <channel id="DigiPlusFamilyHD.ge">
+    <display-name>GE - Digi+ Family HD</display-name>
+    <icon src=""/>
+  </channel>
+
+  <channel id="DigiPlusHD.ge">
+    <display-name>GE - Digi+ HD</display-name>
+    <icon src=""/>
+  </channel>
+
+  <channel id="DigiPlusHitsHD.ge">
+    <display-name>GE - Digi+ Hits HD</display-name>
+    <icon src=""/>
+  </channel>
+
+  <channel id="DigiPlusHorrorHD.ge">
+    <display-name>GE - Digi+ Horror HD</display-name>
+    <icon src=""/>
+  </channel>
+
+  <channel id="DigiPlusKidsHD.ge">
+    <display-name>GE - Digi+ Kids HD</display-name>
+    <icon src=""/>
+  </channel>
+
+  <channel id="DIGIPlusMUSIC4K.ge">
+    <display-name>GE - Digi+ Music 4K</display-name>
+    <icon src=""/>
+  </channel>
+
+  <channel id="DigiPlusMusicHD.ge">
+    <display-name>GE - Digi+ Music HD</display-name>
+    <icon src=""/>
+  </channel>
+
+  <channel id="DigiPlusPlay1.ge">
+    <display-name>GE - Digi+ Play 1 HD</display-name>
+    <icon src=""/>
+  </channel>
+
+  <channel id="DigiPlusPlay2.ge">
+    <display-name>GE - Digi+ Play 2 HD</display-name>
+    <icon src=""/>
+  </channel>
+
+  <channel id="DigiPlusPlay3.ge">
+    <display-name>GE - Digi+ Play 3 HD</display-name>
+    <icon src=""/>
+  </channel>
+
+  <channel id="DigiPlusPlay4.ge">
+    <display-name>GE - Digi+ Play 4 HD</display-name>
+    <icon src=""/>
+  </channel>
+
+  <channel id="DigiPlusPremiereHD.ge">
+    <display-name>GE - Digi+ Premiere HD</display-name>
+    <icon src=""/>
+  </channel>
+
+  <channel id="DigiPlusSeriesHD.ge">
+    <display-name>GE - Digi+ Series HD</display-name>
+    <icon src=""/>
+  </channel>
+
+  <channel id="DigiPlusStars.ge">
+    <display-name>GE - DIGI+ Stars</display-name>
+    <icon src=""/>
+  </channel>
+
+  <!-- სხვა არხები -->
+  <channel id="EnkiBenki.ge">
+    <display-name>GE - Enki Benki</display-name>
+    <icon src=""/>
+  </channel>
+
+  <channel id="Ertsulovneba.ge">
+    <display-name>GE - ერთსულოვნება</display-name>
+    <icon src=""/>
+  </channel>
+
+  <channel id="GurjaaniTV.ge">
+    <display-name>GE - გურჯაანი</display-name>
+    <icon src=""/>
+  </channel>
+
+  <channel id="MaraoTV.ge">
+    <display-name>GE - Marao TV</display-name>
+    <icon src=""/>
+  </channel>
+
+  <channel id="PosTV.ge">
+    <display-name>GE - Pos TV</display-name>
+    <icon src=""/>
+  </channel>
+
+  <channel id="RioniTV.ge">
+    <display-name>GE - Rioni TV</display-name>
+    <icon src=""/>
+  </channel>
+
+  <channel id="QartuliArkhi.ge">
+    <display-name>GE - Qartuli Arkhi</display-name>
+    <icon src=""/>
+  </channel>
+
+  <channel id="QualityChannel.ge">
+    <display-name>GE - Quality Channel</display-name>
+    <icon src=""/>
+  </channel>
+
+  <channel id="RugbyTV.ge">
+    <display-name>GE - რაგბი ტვ</display-name>
+    <icon src=""/>
+  </channel>
+
+  <channel id="SaperaviTV.ge">
+    <display-name>GE - Saperavi TV</display-name>
+    <icon src=""/>
+  </channel>
+
+  <channel id="TV25.ge">
+    <display-name>GE - TV25</display-name>
+    <icon src=""/>
+  </channel>
+
+</tv>
