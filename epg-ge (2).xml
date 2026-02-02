@@ -8376,10 +8376,6 @@
     <title lang="en">No EVENT Today</title>
     <desc lang="en"></desc>
   </programme>
-</tv>
-<channel id="ImediTV.ge">
-    <display-name>Imedi TV</display-name>
-  </channel>
 <!-- დღე 1 -->
   <programme start="20260130000000 +0400" stop="20260130060000 +0400" channel="ImediTV.ge">
     <title>ახალი ამბები</title>
