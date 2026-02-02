@@ -128,11 +128,9 @@
     <display-name>GE - Silk უნივერსალი</display-name>
     <icon src=""></icon>
   </channel>
-  <channel id="რაგბიტვ.ge">
+  <channel id="ragbiTV.ge">
     <display-name>GE - რაგბი ტვ</display-name>
     <icon src=""></icon>
-  </channel>
-  <="https://iptv-epg.org/logos/Georgia/Setanta20.ge.png"></icon>
   </channel>
   <programme start="20260201020000 +0000" stop="20260201040000 +0000" channel="SetantaSports.ge">
     <title lang="ka">ევროპა ლიგა: ბეტისი - ფეიენოორდი</title>
